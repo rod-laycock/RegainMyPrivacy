@@ -10,6 +10,13 @@ So - Here I go.. I am going to plan, document and attempt to execute De-[Insert 
 As some of these systems just work collectively I want solution which works the same, or as near as damn it.
 e.g. I take a photo on my Android and it is backed up to my Photo storage / Drive, which is then searchable.  I put a postcode into maps and I get directions to it from my current location.  I ask my home assistant to remind me, add to a list, etc and it appears in the relevant application.
 
+# Steps
+1. Identify the main culprits which breach privacy.
+2. Identify which services I use which are linked to said culprit.
+3. Analyse requirements of the service, figure out what's needed in the alternative.  Does it connect to other services?
+4. Locate alternatives and identify if they meet requirements in step 3, and any trade offs I may need to sacrafice.
+5. Install / configure / use and remove the offending service.
+
 
 # Google
 Let's start with the worst of the worst.  Google, they track your every search, read your emails, scan your calendar and a million other things in order to build a profile.
