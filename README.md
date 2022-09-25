@@ -71,3 +71,12 @@ What can I say - it needs the following permissions:
   - Change network connectivity
   - Change audio settings
   - Pair with Bluetoot devices
+
+Wow - When you start combining some of those settings, you have a very powerful application which could do things like:
+- Add/Modify calendar events and send emails to guests without owner's knowledge = Self explanatory
+- Download files without notification + Have full network access, could send out files to others on the network = Again, self explanatory
+- Route calls through the system = all your calls could be routed through Facebook, at their end the audio is theirs to own.
+- Prevent phone from sleeping + Record audio + Modify or delete the contents of your shared storage + Have full network access = Record any audio in range of the phone and send it to Facebook / AN Other.
+
+An application with this much power is a BAD thing - Therefore, I am not using this.. But I still need to remove Facebook completely.
+
