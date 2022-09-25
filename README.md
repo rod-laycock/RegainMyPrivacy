@@ -1,9 +1,9 @@
 # Regain My Privacy
 Plan / Software / Solution to regain my privacy online.
 
-So here I am, 40+ and I have had enough of the Internet.  Well to be more accurate, I've had enough of Big Business (Google, Facebook, Amazon, Microsoft*) reusing my data, enough of Cookies tracking me from one site and trying to sell me stuff on another site. Enough of my phone tracking my every movement, analysing my every email, categorising my every photo and reasing my every document.
+So here I am, 40+ and I have had enough of the Internet.  Well to be more accurate, I've had enough of Big Business (Google, Facebook, Amazon, Microsoft**) reusing my data, enough of Cookies tracking me from one site and trying to sell me stuff on another site. Enough of my phone tracking my every movement, analysing my every email, categorising my every photo and reasing my every document.
 
-* I do see the irony of hosting this on GitHub when it's owned by Microsoft.
+** I do see the irony of hosting this on GitHub when it's owned by Microsoft.
 
 So - Here I go.. I am going to plan, document and attempt to execute De-[Insert company name here] my life.
 
@@ -31,7 +31,6 @@ So what do I need to remove Google from my, and if you are reading this, your li
 ## Play Store
 ## Voice
 ## YouTube
-
 
 # Microsoft
 
