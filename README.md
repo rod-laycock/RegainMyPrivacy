@@ -1,4 +1,4 @@
-# RegainMyPrivacy
+# Regain My Privacy
 Plan / Software / Solution to regain my privacy online.
 
 So here I am, 40+ and I have had enough of the Internet.  Well to be more accurate, I've had enough of Big Business (Google, Facebook, Amazon, Microsoft*) reusing my data, enough of Cookies tracking me from one site and trying to sell me stuff on another site. Enough of my phone tracking my every movement, analysing my every email, categorising my every photo and reasing my every document.
@@ -7,10 +7,31 @@ So here I am, 40+ and I have had enough of the Internet.  Well to be more accura
 
 So - Here I go.. I am going to plan, document and attempt to execute De-[Insert company name here] my life.
 
+As some of these systems just work collectively I want solution which works the same, or as near as damn it.
+e.g. I take a photo on my Android and it is backed up to my Photo storage / Drive, which is then searchable.  I put a postcode into maps and I get directions to it from my current location.  I ask my home assistant to remind me, add to a list, etc and it appears in the relevant application.
 
 
 # Google
-Let's start with the worst of the worst.  Google, they track your every search, read your emails, scan your calendar and a million other things in order to build a profile
+Let's start with the worst of the worst.  Google, they track your every search, read your emails, scan your calendar and a million other things in order to build a profile.
+
+So what do I need to remove Google from my, and if you are reading this, your life?
+
+## Android
+## Authenticator
+## Browser / Chrome
+## Calendar
+## Documents / GSuite
+## Drive
+## Email
+## Forms
+## Hangouts
+## Keep
+## Search Engine
+## Photos
+## Play Store
+## Voice
+## YouTube
+
 
 # Microsoft
 
@@ -79,4 +100,12 @@ Wow - When you start combining some of those settings, you have a very powerful 
 - Prevent phone from sleeping + Record audio + Modify or delete the contents of your shared storage + Have full network access = Record any audio in range of the phone and send it to Facebook / AN Other.
 
 An application with this much power is a BAD thing - Therefore, I am not using this.. But I still need to remove Facebook completely.
+
+# Additional
+
+Additionally - The following are a must:
+- VPN
+- Password Manager
+- AdBlocker
+
 
