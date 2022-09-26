@@ -66,7 +66,11 @@ With this in mind I use [BitWarden](https://www.bitwarden.com), at $10 per year 
 ## AdBlocker
 What can I say - even after all of the above - Ads will still attempt to track you (go onto www.halfords.co.uk and search for anything, then visit almost any other website and you will see what I mean)
 
-A good set of AdBlockers is essential and the best one 
+A good set of AdBlockers is essential, I use a all of the following:
+
+[PrivacyBadger](https://privacybadger.org/)
+
+
 
 ## 2 Factor Authentication (2FA)
 Absolutely essential - this is your early warning radar that someone is attempting to gain access to your accounts. 
