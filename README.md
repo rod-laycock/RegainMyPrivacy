@@ -1,117 +1,77 @@
 # Regain My Privacy
 Plan / Software / Solution to regain my privacy online.
 
-So here I am, 40+ and I have had enough of the Internet.  Well to be more accurate, I've had enough of Big Business (Google, Facebook, Amazon, Microsoft**) reusing my data, enough of Cookies tracking me from one site and trying to sell me stuff on another site. Enough of my phone tracking my every movement, analysing my every email, categorising my every photo and reasing my every document.
+So here I am, 40+ and I have had enough of the Internet.  Well to be more accurate, I've had enough of Big Business (Google, Facebook, Amazon, Microsoft**) stealing my data, enough of Cookies tracking me from one site and trying to sell me stuff on another site. Enough of my phone tracking my every movement, analysing my every email, categorising my every photo and reading my every document.
 
 ** I do see the irony of hosting this on GitHub when it's owned by Microsoft.
 
-So - Here I go.. I am going to plan, document and attempt to execute De-[Insert company name here] my life.
+So - Here I go.. I am going to plan, document and attempt to execute De-[Insert company name here] my life.  I am going to de-Google, de-Facebook and hopefully de-Microsoft my personal life.
 
-As some of these systems just work collectively I want solution which works the same, or as near as damn it.
+As some of these systems just work collectively I want solutions which works the same, or as near as damn it.
 e.g. I take a photo on my Android and it is backed up to my Photo storage / Drive, which is then searchable.  I put a postcode into maps and I get directions to it from my current location.  I ask my home assistant to remind me, add to a list, etc and it appears in the relevant application.
 
-# Steps
+## Steps
 1. Identify the main culprits which breach privacy.
 2. Identify which services I use which are linked to said culprit.
 3. Analyse requirements of the service, figure out what's needed in the alternative.  Does it connect to other services?
-4. Locate alternatives and identify if they meet requirements in step 3, and any trade offs I may need to sacrafice.
+4. Locate alternatives and identify if they meet requirements in step 3, and any trade-offs I may need to sacrifice.
 5. Install / configure / use and remove the offending service.
 
+## Offenders
+Being old enough to know a world without the Internet, I witnessed it's birth, I saw it take it's first steps and start to evolve into something beautiful. A world wide mechanism to share information, send images and text around the globe in seconds, not days. I watched during it's childhood as it changed the way we learn enabling us to locate information in seconds not hours.  I then reeled in horror as it hit puberty and turned into a teenager, with pornography, drugs, violence, advertisers, trackers, marketing, data theft and misuse, privacy breaches and all the other crap the Internet has spewed forth. I now weep at the monster that grew up so innocent.
 
-# Google
-Let's start with the worst of the worst.  Google, they track your every search, read your emails, scan your calendar and a million other things in order to build a profile.
+And who is to blame for all this?  Well I can hardly blame porn, drugs and violence on any of the following - but I can and will blame them for all the other things that go on behind the scenes.
 
-So what do I need to remove Google from my, and if you are reading this, your life?
+In my book the main offenders are:
 
-## Android
-## Authenticator
-## Browser / Chrome
-## Calendar
-## Documents / GSuite
-## Drive
-## Email
-## Forms
-## Hangouts
-## Keep
-## Search Engine
-## Photos
-## Play Store
-## Voice
-## YouTube
+1. [Google](./Google/README.md)
+2. [Microsoft](./Microsoft/README.md)
+3. [Facebook/Meta](./Facebook/README.md)
+4. [Amazon](./Amazon/README.md)
 
-# Microsoft
+Please feel free to suggest any further offenders.
 
-# Facebook
-Well the only apps I use in this category are Whats App and Facebook website (I don't use the app as it want's access to too much information it doesn't need).
+# Essential Requirements
 
-## Facebook Lite App
-What can I say - it needs the following permissions:
-- Calendar
-  - Add/Modify calendar events and send emails to guests without owner's knowledge
-  - Read calendar events and details
-- Camera
-  - Take pictures and videos
-- Accounts
-  - Read your contacts
-  - Find accounts on th device
-  - Modify your contacts
-- Location
-  - Access approximate location only in the foreground
-  - Access precise location only in the foreground
-- Microphone
-  - Record audio
-- Telephone
-  - Directly call phone numbers
-  - Read phone status and identity
-- Storage
-  - Modify or delete the contents of your shared storage
-  - Read the contents of your shared storage
-- Other
-  - Download files without notification
-  - Read phonbe numbers
-  - Prevent phone from sleeping
-  - View wi-fi connections
-  - Receive data from the Internet
-  - Access Google Play billing service
-  - Send sticky broadcast
-  - Set application badges
-  - Connect and disconnect from wi-fi
-  - Have full network access
-  - retrieve running apps
-  - android.permissions.USE_FULL_SCREEN_INTENT
-  - Advertising ID permission
-  - Read locations from your media collection
-  - Read sync settings
-  - Run foreground services
-  - Access Bluetooth settings
-  - This app can appear on top of other apps
-  - Control NFC
-  - Run at start-up
-  - Route calls through the system
-  - View network connections
-  - Use fingerprint hardware
-  - Install shortcuts
-  - Read Google service configuration
-  - Control vibration
-  - Toggle sync on / off
-  - Use biometric hardware
-  - Change network connectivity
-  - Change audio settings
-  - Pair with Bluetoot devices
+As we are now this far down the rabbit hole of privacy and security, there are a few essentials which I would not live without.
 
-Wow - When you start combining some of those settings, you have a very powerful application which could do things like:
-- Add/Modify calendar events and send emails to guests without owner's knowledge = Self explanatory
-- Download files without notification + Have full network access, could send out files to others on the network = Again, self explanatory
-- Route calls through the system = all your calls could be routed through Facebook, at their end the audio is theirs to own.
-- Prevent phone from sleeping + Record audio + Modify or delete the contents of your shared storage + Have full network access = Record any audio in range of the phone and send it to Facebook / AN Other.
+## VPN
+A good VPN is essentials when using public access points, and even phone networks.
 
-An application with this much power is a BAD thing - Therefore, I am not using this.. But I still need to remove Facebook completely.
+## Password Manager
 
-# Additional
+Never reuse the same password over and over - it's asking for trouble. Find a really good Password Manager and stick with it.
 
-Additionally - The following are a must:
-- VPN
-- Password Manager
-- AdBlocker
+The 2 options I have here are:
+1. Local password manager installed on laptop, desktop, phone and synchronise the data file using some mechanism.
+2. Online password manager which stores your data in the cloud.
 
+As you can see, both have their flaws:
+1. I need to synchronise the data file, probably using a cloud service - what if this gets hacked?
+2. I need to store my usernames and passwords in the cloud, what if this gets hacked?
+
+The best solution I have found is to use option 2 (Online password manager), but only store part of the password in there.  The other part of the password could be related to the site, account or some other information only known to you.
+
+e.g. 
+Your Amazon account has a password stored in your password manager which could be "Vitally6-Landing-Removing"
+
+If the secret only known to you is to categorise the website and count the letters in it's base domain name (www.amazon.co.uk has 16 characters), then the true password could be
+
+Vitally6-Landing-Removing_shopping16
+
+Ensure you protect it with a really good key and you have a set of passwords which cannot be cracked (not in your lifetime anyway) and even if the password manager is compromised, it's still useless to anyone.
+
+With this in mind I use [BitWarden](https://www.bitwarden.com), at $10 per year it allows for unlimited passwords and 2FA (see below).
+
+## AdBlocker
+What can I say - even after all of the above - Ads will still attempt to track you (go onto www.halfords.co.uk and search for anything, then visit almost any other website and you will see what I mean)
+
+A good set of AdBlockers is essential and the best one 
+
+## 2 Factor Authentication (2FA)
+Absolutely essential - this is your early warning radar that someone is attempting to gain access to your accounts. 
+
+If you are not familiar with 2FA, checkout [Wikipedia's article](https://en.wikipedia.org/wiki/Multi-factor_authentication) on it.
+
+If an account is worth securing - it's worth using 2FA.  If it's not work securing - delete it!
 
