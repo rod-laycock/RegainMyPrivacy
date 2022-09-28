@@ -91,5 +91,6 @@ You may need to disable 2FA on the site and then re-enable it, but it just works
 
 I have now removed all 2FA authenticators in favour of just the one.
 
+![Only Authy Remains](images/authy.jpg "Only Authy Remains")
 
 Cleaner, nicer and I have now removed my first dependency on Microsoft and Google.
