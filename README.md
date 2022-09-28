@@ -79,3 +79,17 @@ If you are not familiar with 2FA, checkout [Wikipedia's article](https://en.wiki
 
 If an account is worth securing - it's worth using 2FA.  If it's not work securing - delete it!
 
+I used to have Microsoft Authenticator and Google Authenticator on my phone.  2 apps, doing the same job, taking up space.  The problem here is that if you enable 2FA for Microsoft, you get instructions to download MS Authenticator and use that.  You then enable 2FA on your Google account and you get instructions to download and install Google Authenticator.  
+
+This is where the problems start.  You enable 2FA on GitHub, DevOps or another account and then you open one of the apps and add it into there. 
+
+At some point you will be saying "Which app did I install XXXXXXX 2FA onto?"
+
+So I looked about for a single app which can do both and found [Authy](https://authy.com/). It's a nice little app, ad free, which just works. I can add all my accounts (and I have done) from Google Authenticator and Microsoft Authenticator into a single app and then removed the other 2.
+
+You may need to disable 2FA on the site and then re-enable it, but it just works.
+
+I have now removed all 2FA authenticators in favour of just the one.
+
+
+Cleaner, nicer and I have now removed my first dependency on Microsoft and Google.
