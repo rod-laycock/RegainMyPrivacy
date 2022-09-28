@@ -63,6 +63,8 @@ Ensure you protect it with a really good key and you have a set of passwords whi
 
 With this in mind I use [BitWarden](https://www.bitwarden.com), at $10 per year it allows for unlimited passwords and 2FA (see below).
 
+**If you are a little tight on money, you can do what I did and go with the free version and use a second 2FA application**
+
 ## AdBlocker
 What can I say - even after all of the above - Ads will still attempt to track you (go onto www.halfords.co.uk and search for anything, then visit almost any other website and you will see what I mean)
 
