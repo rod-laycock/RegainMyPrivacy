@@ -13,7 +13,7 @@ Google Authenticator is an application which stores 2FA codes to allow you to se
 
 So how do I use it?  Well it's really simple, I open the app, add an account and scan the QR code.  It adds the account to my Authenticator app along with a code that rotates every 60 seconds.  When I want to use it, I open the app and type the 6 digit code before the 60 seconds elapses into the website I want to authenticate with.
 
-So I removed my first dependency on a Google product. Google Authenticator is no more and has been replaced by a product called [Authy](https://www.authy.com). It's a free app which allows you to authenticate via multiple devices.  You can install it via the Play Store on Android or via their website.
+So I removed my first dependency on a Google product. Google Authenticator is no more and has been replaced by a product called [Authy](https://www.authy.com). It's a free app which allows you to authenticate via multiple devices.  You can install it via the Play Store on Android or via their website (As we are removing dependency on Google - I would recommend the latter).
 
 It's accessible via your phone number, so install it onto your mobile first, then onto your desktop.  It will send a message via Push Notification to the Authy app, which you can then accept.
 
@@ -69,7 +69,30 @@ Mental note: DuckDuckGo
 Mental note: AllSync.com 
 
 ## Play Store
-Mental Note: FDroid
+So the second item on my list is the Google Play Store, not that a big a deal I think I can hear.. After all, it's just for downloading apps right? But let's think about this for a second.  Google are offering a free service, which allows anyone to create and host an application which can be downloaded onto their phone.  Applications can be free or the dev can charge for them - and there we have it.  In 2019 Google were forced to disclose their revenue for the Play Store, and it's eye watering.  A staggering $11.2 Billion (US) from direct sales, advertisement revenue and in app purchases.
+Let's put this into perspective:
+
+$11,200,000,000 / 365 days = $30,684,931 per day
+$30,684,931 / 24 hours = $1,278,538 per hour
+$1,278,538 / 60 mins = $21,308 per minute
+$21,308 / 60 seconds = $355 per second
+
+So why this is so profitable?  Advertisements.  Getting people to click on a link and possibly purchase a product of which some money goes back to the developer, some go to Google. 
+
+Another reason why I don't want Google holding information on me, it stops them from making massive amounts of money by targeting people based on data.  Why should we give this information to them freely?
+
+So what alternatives are there?  Well my first thought was F-Droid, it's a nice simple Play Store alternative with a lot of really good software you would not find on the Play Store, but it does lack some of the mainstream apps like Netflix, Spotify, Firefox... Although it does have VLC and Proton Mail (which I was pleased to see as I personally use both).
+
+If you cannot find it on F-Droid, then [enable downloading and installing of APK's](https://duckduckgo.com/?q=how+to+install++apk&t=newext&atb=v332-1&ia=web) and head on over to [APK Mirror](https://www.apkmirror.com/) where you can download pretty much everything else.  I thought I'd really test it and see if my banking apps were there.  Some of the top high street banks are there:
+
+MBNA
+Lloyds Bank
+Natwest
+TSB
+
+Others are still only on the Play Store (tisk tisk).
+
+Alas - I cannot completely remove the Play Store until I've updated all my apps from other sources, so this one may take some time.. Stay tuned!
 
 ## Voice
 
