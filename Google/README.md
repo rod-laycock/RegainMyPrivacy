@@ -63,7 +63,30 @@ Mental note: Signal
 Mental note: AllSync.com 
 
 ## Search Engine
-Mental note: DuckDuckGo
+So this is another easy one, simply open your browser and in the address bar type "www.duckduckgo.com".
+
+![image](https://user-images.githubusercontent.com/21695551/195696056-fbf7572c-ac24-4263-b9e2-6178010978a2.png)
+
+When the above is displayed (note, I use a dark mode theme so it might look lighter on your display) - type in the box in the middle "How do I set DuckDuckGo as default search in [enter name of browser]".  Find a link which is right for you and click it.
+
+Congratulations - you have just searched for something and not been tracked across websites, doesn't that feel liberating?
+
+I have been using DuckDuckGo for years, as Google store every search you ever do and use that to build up a profile on you in order to sell you things.  Don't believe me? Use Google and search for similar things over and over again "1/2 inch socket set", "socket set", "garage socket set", etc.  Then watch as more and more ads are served to you as company's try and sell you a socket set.
+
+There are other search engines out there, some as good, some better some worse. Try them for yourself:
+
+[Quant](https://www.qwant.com/) - TBC
+[Star Page](https://www.startpage.com/) - TBC
+[Swiss Cows](https://swisscows.com/en) -  TBC
+[Mojeek](https://www.mojeek.com/) - TBC
+[Peekier](https://peekier.com/) "The most privacy-orientated search engine"
+[MetaGer](https://metager.org/) "Privacy Protected Search & Find".
+[Ecosia](https://www.ecosia.org/) The eco-friendly search engine, planting trees as you search.
+[Gibru](https://gibiru.com/) "The uncensored search engine" - Be careful what you search for ;)
+
+All in all - there are other search engines, Google and Bing are not the only ones.. And these do not and will not track you, you information to target ads to you or invade your privacy.
+
+Make the switch - this is the easiest thing you will ever do to break away from big tech companies.
 
 ## Photos
 Mental note: AllSync.com 
