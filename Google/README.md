@@ -75,14 +75,14 @@ I have been using DuckDuckGo for years, as Google store every search you ever do
 
 There are other search engines out there, some as good, some better some worse. Try them for yourself:
 
-[Quant](https://www.qwant.com/) - TBC
-[Star Page](https://www.startpage.com/) - TBC
-[Swiss Cows](https://swisscows.com/en) -  TBC
-[Mojeek](https://www.mojeek.com/) - TBC
-[Peekier](https://peekier.com/) "The most privacy-orientated search engine"
-[MetaGer](https://metager.org/) "Privacy Protected Search & Find".
-[Ecosia](https://www.ecosia.org/) The eco-friendly search engine, planting trees as you search.
-[Gibru](https://gibiru.com/) "The uncensored search engine" - Be careful what you search for ;)
+- [Quant](https://www.qwant.com/) - TBC
+- [Star Page](https://www.startpage.com/) - TBC
+- [Swiss Cows](https://swisscows.com/en) -  TBC
+- [Mojeek](https://www.mojeek.com/) - TBC
+- [Peekier](https://peekier.com/) "The most privacy-orientated search engine"
+- [MetaGer](https://metager.org/) "Privacy Protected Search & Find".
+- [Ecosia](https://www.ecosia.org/) The eco-friendly search engine, planting trees as you search.
+- [Gibru](https://gibiru.com/) "The uncensored search engine" - Be careful what you search for ;)
 
 All in all - there are other search engines, Google and Bing are not the only ones.. And these do not and will not track you, you information to target ads to you or invade your privacy.
 
