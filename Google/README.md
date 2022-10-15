@@ -48,7 +48,7 @@ So it's now 15/10/22 and I have some time to do a large bit of this, removing al
 
 Let's just rollback why I am doing this, Google scans the documents you upload into their drive solution so they can index them for keyword searching.  Don't believe me? Log in and do a search:
 
-++ Image ++
+![image](./doc-search.png)
 
 So I have been playing with a new solution called Next Cloud. Where do I start with this; it's bloody fantastic.
 
@@ -91,7 +91,7 @@ Mental note: AllSync.com
 ## Search Engine
 So this is another easy one, simply open your browser and in the address bar type "www.duckduckgo.com".
 
-![image](https://user-images.githubusercontent.com/21695551/195696056-fbf7572c-ac24-4263-b9e2-6178010978a2.png)
+![image](./duckduckgo.png)
 
 When the above is displayed (note, I use a dark mode theme so it might look lighter on your display) - type in the box in the middle "How do I set DuckDuckGo as default search in [enter name of browser]".  Find a link which is right for you and click it.
 
