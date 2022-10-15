@@ -91,7 +91,7 @@ Mental note: AllSync.com
 ## Search Engine
 So this is another easy one, simply open your browser and in the address bar type "www.duckduckgo.com".
 
-![image](./duckduckgo.png)
+![image](https://user-images.githubusercontent.com/21695551/195696056-fbf7572c-ac24-4263-b9e2-6178010978a2.png)
 
 When the above is displayed (note, I use a dark mode theme so it might look lighter on your display) - type in the box in the middle "How do I set DuckDuckGo as default search in [enter name of browser]".  Find a link which is right for you and click it.
 
