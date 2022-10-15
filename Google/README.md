@@ -13,7 +13,7 @@ Google Authenticator is an application which stores 2FA codes to allow you to se
 
 So how do I use it?  Well it's really simple, I open the app, add an account and scan the QR code.  It adds the account to my Authenticator app along with a code that rotates every 60 seconds.  When I want to use it, I open the app and type the 6 digit code before the 60 seconds elapses into the website I want to authenticate with.
 
-So I removed my first dependency on a Google product. Google Authenticator is no more and has been replaced by a product called [Authy](https://www.authy.com). It's a free app which allows you to authenticate via multiple devices.  You can install it via the Play Store on Android or via their website (As we are removing dependency on Google - I would recommend the latter).
+So I removed my first dependency on a Google product. Google Authenticator is no more and has been replaced by a product called [Authy](https://www.authy.com). It's a free, open sourced, app which allows you to authenticate via multiple devices.  You can install it via the Play Store on Android or via their website (As we are removing dependency on Google - I would recommend the latter).
 
 It's accessible via your phone number, so install it onto your mobile first, then onto your desktop.  It will send a message via Push Notification to the Authy app, which you can then accept.
 
@@ -44,12 +44,38 @@ Mental note: AllSync.com -
 Mental note: AllSync.com
 
 ## Drive
-Mental note: AllSync.com - 
-GoogleDrive: $0 15GB,  $12/user/month 2TB
-AllSync:  $0.08 unlimited user/month 10GB,      $3.86 unlimited users/month 2TB
+So it's now 15/10/22 and I have some time to do a large bit of this, removing all my documents from Google Drive, and whilst i am at it Microsoft's One Drive.
+
+Let's just rollback why I am doing this, Google scans the documents you upload into their drive solution so they can index them for keyword searching.  Don't believe me? Log in and do a search:
+
+++ Image ++
+
+So I have been playing with a new solution called Next Cloud. Where do I start with this; it's bloody fantastic.
+
+[Next Cloud](https://nextcloud.com/) is an open source replacement for a lot of the tools Google and Microsoft use. It allows me to store documents and photo's, it has a calendar, it has contacts, chat, office tools and a myriad of other items.
+
+You can host it yourself or buy Next Cloud hosting really cheaply in comparison to Microsoft and Google drives (see table below).
+
+I have been playing with a Next Cloud provider called [All Sync](https://allsync.com/) and their prices are really, really cheap. Note: There are other providers which allow you to host Next Cloud, or you could buy / setup a Next Cloud instance in your home / office and run it yourself.
+
+All Sync are based in the Netherlands and everything is encrypted on their servers and use end to end encryption, so there is no-one snooping on your files.
+
+
+| Provider  | 5GB  | 10GB  | 15GB  | 100GB | 200GB | 500GB | 1TB   | 2TB   | 3TB   |
+|-----------|------|-------|-------|-------|-------|-------|-------|-------|-------|
+| AllSync   | N/A  | £0.07 | N/A   | £0.87 | N/A   | £1.73 | £2.60 | £3.47 | £4.34 |
+| Google    | N/A  | N/A   | Free  | £1.59 | £2.49 | N/A   | N/A   | £7.99 | N/A   |
+| Microsoft | Free | N/A   | N/A   | £1.99 | N/A   | N/A   | £5.99 | N/A   | N/A   |
+
+As you can see - All Sync is really, really cheap!.
+
+AllSync allow you to upgrade / downgrade at will - so if you are running out of space, you simply log in and upgrade. Conversely if you are not using all the disk space you can downgrade and save costs.
+
+
 
 AllSync allows: Drive, Calendar, Office, Bookmarks, Tasks
 NextCloud instance..
+
 
 ## Email
 Mental note: ProtonMail
