@@ -71,6 +71,27 @@ As you can see - All Sync is really, really cheap!.
 
 AllSync allow you to upgrade / downgrade at will - so if you are running out of space, you simply log in and upgrade. Conversely if you are not using all the disk space you can downgrade and save costs.
 
+So how did I do this? Well first thing, I needed to download all my photo's and documents from Google onto my local drive
+
+### Download all my documents
+Log into [Google Drive](https://drive.google.com/) and click on one of the files / folders.
+
+![image](./select-file.png)
+
+Press `CTRL` + `A` to select all the files and folders.
+
+![image](./select-all-files.png)
+
+Click on the 3 dots and select `Download`
+
+![image](./download-files.png)
+
+At the bottom you can see it states it's zipping up files and folders and will allow you to download it from within your browser.
+
+![image](./preparing-download.png)
+
+Now - we just need to extract it onto our hard disk and start the task of deleting anything which we don't want to keep.
+
 
 
 AllSync allows: Drive, Calendar, Office, Bookmarks, Tasks
