@@ -67,7 +67,14 @@ All Sync are based in the Netherlands and everything is encrypted on their serve
 | Google    | N/A  | N/A   | Free  | £1.59 | £2.49 | N/A   | N/A   | £7.99 | N/A   |
 | Microsoft | Free | N/A   | N/A   | £1.99 | N/A   | N/A   | £5.99 | N/A   | N/A   |
 
-As you can see - All Sync is really, really cheap!.
+As you can see - All Sync is really, really cheap - for 100GB of disk space over 12 months, it will cost:
+
+- AllSync - £10.44
+- Google - £19.08
+- Microsoft - £23.88
+
+So for 3TB of disk storage, it will cost you less than a Costa Coffee a month, which equates to £52.08 per year, and this is so worth not having Google scan your file system.
+
 
 AllSync allow you to upgrade / downgrade at will - so if you are running out of space, you simply log in and upgrade. Conversely if you are not using all the disk space you can downgrade and save costs.
 
@@ -97,6 +104,7 @@ Now - we just need to extract it onto our hard disk and start the task of deleti
 AllSync allows: Drive, Calendar, Office, Bookmarks, Tasks
 NextCloud instance..
 
+NOTE: If using 2FA on NextCloud - ensure you create an application password to connect your desktop / mobile / etc too.
 
 ## Email
 Mental note: ProtonMail
