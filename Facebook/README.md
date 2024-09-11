@@ -63,3 +63,45 @@ Wow - When you start combining some of those settings, you have a very powerful 
 - Prevent phone from sleeping + Record audio + Modify or delete the contents of your shared storage + Have full network access = Record any audio in range of the phone and send it to Facebook / AN Other.
 
 An application with this much power is a BAD thing - Therefore, I am not using this.. But I still need to remove Facebook completely.
+
+# Process
+So I deleted my Facebook account, and didn't really look back. I'm much happier without it and realised I was actually addicted to mindless scrolling with no end in sight and no way to stop.
+
+# Replacements
+I have been using (tumblr)[https://www.tumblr.com] which means I can actually select the content I want and anot just fed random rubbish.
+
+## (Tumblr)[https://www.tumblr.com]
+I have been using Tumblr for a long time now, and I really like it - I can use hashtags to focus in on specific information I would like to read.
+
+TODO
+
+## WT Social (now called (Trust Cafe)[https://www.trustcafe.io]) 
+This is a new one on me and it seems OK, a little sparse but not bad.
+
+TODO 
+
+## EyeEm	
+
+## Diasporia
+
+## Yubo
+
+## MeWe
+
+## PixelFed
+
+## Friendica
+
+## Ello
+
+## Vero
+
+## Mastodon
+
+## Steem it	
+
+## Raftr
+
+## Minds
+
+## ClubHouse
