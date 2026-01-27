@@ -38,6 +38,8 @@ As we are now this far down the rabbit hole of privacy and security, there are a
 ## VPN
 A good VPN is essentials when using public access points, and even phone networks.
 
+So I recently switched to [Proton VPN](https://protonvpn.com/download) on an annual subscription, as this allows me to connect to a massive number of VPNs worldwide for one low monthly price. I managed to achieve this by saving a fortune and [moving from my existing hosting provider](https://rodlaycock.co.uk/post/free-hosting/). This allowed me to have some spare money to invest in a decent, secure VPN.
+
 ## Password Manager
 
 Never reuse the same password over and over - it's asking for trouble. Find a really good Password Manager and stick with it.
@@ -61,9 +63,9 @@ Vitally6-Landing-Removing_shopping16
 
 Ensure you protect it with a really good key and you have a set of passwords which cannot be cracked (not in your lifetime anyway) and even if the password manager is compromised, it's still useless to anyone.
 
-With this in mind I use [BitWarden](https://www.bitwarden.com), at $10 per year it allows for unlimited passwords and 2FA (see below).
+With this in mind a free option is [BitWarden](https://www.bitwarden.com), which starts at free for personal use.
 
-**If you are a little tight on money, you can do what I did and go with the free version and use a second 2FA application**
+Since I purchased a [Proton Account](https://proton.me) I get access to [Proton Authenticator](https://proton.me/authenticator) which is a secure 2FA application which replaces Google, Microsoft and other authenticator applications. 
 
 ## AdBlocker
 What can I say - even after all of the above - Ads will still attempt to track you (go onto www.halfords.co.uk and search for anything, then visit almost any other website and you will see what I mean)
