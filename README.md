@@ -1,7 +1,7 @@
 # Regain My Privacy
 Plan / Software / Solution to regain my privacy online.
 
-So here I am, 40+ and I have had enough of the Internet.  Well to be more accurate, I've had enough of Big Business (Google, Facebook, Amazon, Microsoft**) stealing my data, enough of Cookies tracking me from one site and trying to sell me stuff on another site. Enough of my phone tracking my every movement, analysing my every email, categorising my every photo and reading my every document.
+With a career in software and computing spanning a long time, I have watched the birth of the Internet. Saw it take it's first steps, say it's first words and evovle into the rebellious, agst ridden teenaget it is today.  At this stage in my life I have had enough of Big Data (Google, Facebook, Amazon, Microsoft**) stealing my data and selling it. Enough of Marketing teams using cookies to track my movement across the internet, trying to sell me stuff across websites. Enough of my phone tracking my every movement, analysing my every email, categorising my every photo and reading my every document.
 
 ** I do see the irony of hosting this on GitHub when it's owned by Microsoft.
 
